@@ -23,11 +23,11 @@ The script presented here first merges training and test data provided and extra
 ## Description of the variables in tidy data set
 
 For each row in the Tidy Dataset, the following 68 columns are provided:
-subject
-activity
-time-body-acceleration-mean-x
-time-body-acceleration-mean-y
-time-body-acceleration-mean-z
+(01) subject
+(02) activity
+(03) time-body-acceleration-mean-x
+(04) time-body-acceleration-mean-y
+(05) time-body-acceleration-mean-z
 time-body-acceleration-std-x
 time-body-acceleration-std-y
 time-body-acceleration-std-z
