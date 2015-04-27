@@ -14,12 +14,11 @@ The script `run_analysis.R` creates a tidy data set using raw data provided by  
 
 The script presented here first merges training and test data provided and extracts only variables related to mean and standard deviation features for each of the 33 processed signals. Here are list of transformations done to the data to derive tidy data set:
 
-(a) Merge Test and Training Data Sets
-
-(b) Subset the data to extract mean and std features for each 33 processed signals (66 features in total)
-(c) Append "subject" and "activity" columns, thus having 68 columns
-(d) Summerize data (find means of all the features) grouping by "subject" and "activity"
-(e) Summarized (tidy) data contains 180 observations (for 30 subjects and 6 activities)
+1. Merge Test and Training Data Sets
+2. Subset the data to extract mean and std features for each 33 processed signals (66 features in total)
+3. Append "subject" and "activity" columns, thus having 68 columns
+4. Summerize data (find means of all the features) grouping by "subject" and "activity"
+5. Summarized (tidy) data contains 180 observations (for 30 subjects and 6 activities)
 
 ## Description of the variables in tidy data set
 
