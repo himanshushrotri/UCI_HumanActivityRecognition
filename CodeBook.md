@@ -23,74 +23,74 @@ The script presented here first merges training and test data provided and extra
 ## Description of the variables in tidy data set
 
 For each row in the Tidy Dataset, the following 68 columns are provided:
-(01) subject
-(02) activity
-(03) time-body-acceleration-mean-x
-(04) time-body-acceleration-mean-y
-(05) time-body-acceleration-mean-z
-(06) time-body-acceleration-std-x
-time-body-acceleration-std-y
-time-body-acceleration-std-z
-time-gravity-acceleration-mean-x
-time-gravity-acceleration-mean-y
-time-gravity-acceleration-mean-z
-time-gravity-acceleration-std-x
-time-gravity-acceleration-std-y
-time-gravity-acceleration-std-z
-time-body-acceleration-jerk-mean-x
-time-body-acceleration-jerk-mean-y
-time-body-acceleration-jerk-mean-z
-time-body-acceleration-jerk-std-x
-time-body-acceleration-jerk-std-y
-time-body-acceleration-jerk-std-z
-time-body-gyro-mean-x
-time-body-gyro-mean-y
-time-body-gyro-mean-z
-time-body-gyro-std-x
-time-body-gyro-std-y
-time-body-gyro-std-z
-time-body-gyro-jerk-mean-x
-time-body-gyro-jerk-mean-y
-time-body-gyro-jerk-mean-z
-time-body-gyro-jerk-std-x
-time-body-gyro-jerk-std-y
-time-body-gyro-jerk-std-z
-time-body-acceleration-magnitude-mean
-time-body-acceleration-magnitude-std
-time-gravity-acceleration-magnitude-mean
-time-gravity-acceleration-magnitude-std
-time-body-acceleration-jerk-magnitude-mean
-time-body-acceleration-jerk-magnitude-std
-time-body-gyro-magnitude-mean
-time-body-gyro-magnitude-std
-time-body-gyro-jerk-magnitude-mean
-time-body-gyro-jerk-magnitude-std
-freq-body-acceleration-mean-x
-freq-body-acceleration-mean-y
-freq-body-acceleration-mean-z
-freq-body-acceleration-std-x
-freq-body-acceleration-std-y
-freq-body-acceleration-std-z
-freq-body-acceleration-jerk-mean-x
-freq-body-acceleration-jerk-mean-y
-freq-body-acceleration-jerk-mean-z
-freq-body-acceleration-jerk-std-x
-freq-body-acceleration-jerk-std-y
-freq-body-acceleration-jerk-std-z
-freq-body-gyro-mean-x
-freq-body-gyro-mean-y
-freq-body-gyro-mean-z
-freq-body-gyro-std-x
-freq-body-gyro-std-y
-freq-body-gyro-std-z
-freq-body-acceleration-magnitude-mean
-freq-body-acceleration-magnitude-std
-freq-body-acceleration-jerk-magnitude-mean
-freq-body-acceleration-jerk-magnitude-std
-freq-body-gyro-magnitude-mean
-freq-body-gyro-magnitude-std
-freq-body-gyro-jerk-magnitude-mean
-freq-body-gyro-jerk-magnitude-std
+01. subject
+02. activity
+03. time-body-acceleration-mean-x
+04. time-body-acceleration-mean-y
+05. time-body-acceleration-mean-z
+06. time-body-acceleration-std-x
+07. time-body-acceleration-std-y
+08. time-body-acceleration-std-z
+09. time-gravity-acceleration-mean-x
+10. time-gravity-acceleration-mean-y
+11. time-gravity-acceleration-mean-z
+12. time-gravity-acceleration-std-x
+13. time-gravity-acceleration-std-y
+14. time-gravity-acceleration-std-z
+15. time-body-acceleration-jerk-mean-x
+16. time-body-acceleration-jerk-mean-y
+17. time-body-acceleration-jerk-mean-z
+18. time-body-acceleration-jerk-std-x
+19. time-body-acceleration-jerk-std-y
+20. time-body-acceleration-jerk-std-z
+21. time-body-gyro-mean-x
+22. time-body-gyro-mean-y
+23. time-body-gyro-mean-z
+24. time-body-gyro-std-x
+25. time-body-gyro-std-y
+26. time-body-gyro-std-z
+27. time-body-gyro-jerk-mean-x
+28. time-body-gyro-jerk-mean-y
+29. time-body-gyro-jerk-mean-z
+30. time-body-gyro-jerk-std-x
+31. time-body-gyro-jerk-std-y
+32. time-body-gyro-jerk-std-z
+33. time-body-acceleration-magnitude-mean
+34. time-body-acceleration-magnitude-std
+35. time-gravity-acceleration-magnitude-mean
+36. time-gravity-acceleration-magnitude-std
+37. time-body-acceleration-jerk-magnitude-mean
+38. time-body-acceleration-jerk-magnitude-std
+39. time-body-gyro-magnitude-mean
+40. time-body-gyro-magnitude-std
+41. time-body-gyro-jerk-magnitude-mean
+42. time-body-gyro-jerk-magnitude-std
+43. freq-body-acceleration-mean-x
+44. freq-body-acceleration-mean-y
+45. freq-body-acceleration-mean-z
+46. freq-body-acceleration-std-x
+47. freq-body-acceleration-std-y
+48. freq-body-acceleration-std-z
+49. freq-body-acceleration-jerk-mean-x
+50. freq-body-acceleration-jerk-mean-y
+51. freq-body-acceleration-jerk-mean-z
+52. freq-body-acceleration-jerk-std-x
+53. freq-body-acceleration-jerk-std-y
+54. freq-body-acceleration-jerk-std-z
+55. freq-body-gyro-mean-x
+56. freq-body-gyro-mean-y
+57. freq-body-gyro-mean-z
+58. freq-body-gyro-std-x
+59. freq-body-gyro-std-y
+60. freq-body-gyro-std-z
+61. freq-body-acceleration-magnitude-mean
+62. freq-body-acceleration-magnitude-std
+63. freq-body-acceleration-jerk-magnitude-mean
+64. freq-body-acceleration-jerk-magnitude-std
+65. freq-body-gyro-magnitude-mean
+66. freq-body-gyro-magnitude-std
+67. freq-body-gyro-jerk-magnitude-mean
+68. freq-body-gyro-jerk-magnitude-std
 
 
 ### Subjects Values
