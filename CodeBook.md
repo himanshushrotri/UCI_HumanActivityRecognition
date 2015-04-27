@@ -28,7 +28,7 @@ For each row in the Tidy Dataset, the following 68 columns are provided:
 (03) time-body-acceleration-mean-x
 (04) time-body-acceleration-mean-y
 (05) time-body-acceleration-mean-z
-time-body-acceleration-std-x
+(06) time-body-acceleration-std-x
 time-body-acceleration-std-y
 time-body-acceleration-std-z
 time-gravity-acceleration-mean-x
